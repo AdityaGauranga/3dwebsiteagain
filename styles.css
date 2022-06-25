@@ -31,6 +31,9 @@ hr {
     margin: auto;
 }
 
+.container-center p {
+    text-align: center;
+}
 
 /** links **/
 .links {
